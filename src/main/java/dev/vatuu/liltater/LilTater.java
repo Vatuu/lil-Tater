@@ -3,6 +3,7 @@ package dev.vatuu.liltater;
 import dev.vatuu.liltater.block.Blocks;
 import dev.vatuu.liltater.block.LilTaterBlock;
 import dev.vatuu.liltater.entity.Entities;
+import dev.vatuu.liltater.item.Items;
 import net.fabricmc.api.ModInitializer;
 import net.fabricmc.fabric.api.client.itemgroup.FabricItemGroupBuilder;
 import net.minecraft.item.ItemGroup;
@@ -19,6 +20,6 @@ public class LilTater implements ModInitializer {
     public void onInitialize() {
         Blocks.init();
         Entities.init();
-        //Items.init();
+        Items.init();
     }
 }

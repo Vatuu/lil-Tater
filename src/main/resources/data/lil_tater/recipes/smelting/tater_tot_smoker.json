@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smoking",
+  "ingredient": {"item": "lil_tater:lil_tater"},
+  "result": "lil_tater:tater_tot",
+  "experience": 0.15,
+  "cookingtime": 200
+}

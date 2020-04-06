@@ -2,8 +2,9 @@
   "block.lil_tater.lil_tater": "'lil Tater",
   "block.lil_tater.irritater": "Irritater",
 
-  "item.lil_tater.uwotter_egg": "Uwotter Spawn Egg",
-  "item.lil_tater.hmpf_egg": "Hmpf Spawn Egg",
+  "item.lil_tater.uwotter_egg": "Uwotter Spawn Egg (Unfinished)",
+  "item.lil_tater.hmpf_egg": "Hmpf Spawn Egg (Unfinished)",
+  "item.lil_tater.tater_tot": "Tater Tot",
 
   "entity.lil_tater.uwotter": "Uwotter",
   "entity.lil_tater.hmpf": "Hmpf",

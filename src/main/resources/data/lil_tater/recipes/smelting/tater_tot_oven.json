@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": {"item": "lil_tater:irritater"},
+  "result": "lil_tater:tater_tot",
+  "experience": 0.15,
+  "cookingtime": 200
+}

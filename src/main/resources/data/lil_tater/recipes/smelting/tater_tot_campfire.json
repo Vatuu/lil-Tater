@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "ingredient": {"item": "lil_tater:irritater"},
+  "result": "lil_tater:tater_tot",
+  "experience": 0.15,
+  "cookingtime": 300
+}
