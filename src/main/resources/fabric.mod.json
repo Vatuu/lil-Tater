@@ -9,7 +9,7 @@
     "Draylarr"
   ],
   "license": "CC0-1.0",
-  "icon": "assets/lil-tater/icon.png",
+  "icon": "assets/lil_tater/icon.png",
   "environment": "*",
   "entrypoints": {
     "main": [
