@@ -1,0 +1,6 @@
+{
+    "parent": "item/generated",
+    "textures": {
+        "layer0": "lil_tater:item/tater_armor_chest"
+    }
+}

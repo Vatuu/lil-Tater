@@ -1,0 +1,28 @@
+{
+	"credit": "Made by Vatuu.",
+	"textures": {
+		"0": "#tater",
+		"particle": "#tater"
+	},
+	"elements": [
+		{
+			"from": [6, 9, 6],
+			"to": [10, 16, 10],
+			"faces": {
+				"north": {"uv": [4, 4, 8, 11], "texture": "#0"},
+				"east": {"uv": [0, 4, 4, 11], "texture": "#0"},
+				"south": {"uv": [12, 4, 16, 11], "texture": "#0"},
+				"west": {"uv": [8, 4, 12, 11], "texture": "#0"},
+				"up": {"uv": [4, 0, 8, 4], "texture": "#0"},
+				"down": {"uv": [8, 0, 12, 4], "texture": "#0"}
+			}
+		}
+	],
+	"groups": [
+		{
+			"name": "tater",
+			"origin": [8, 8, 8],
+			"children": [0]
+		}
+	]
+}

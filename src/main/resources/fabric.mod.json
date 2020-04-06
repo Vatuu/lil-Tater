@@ -1,0 +1,30 @@
+{
+  "schemaVersion": 1,
+  "id": "lil-tater",
+  "version": "${version}",
+  "name": "lil' Tater",
+  "description": "A potatotastic Minecraft Mod.",
+  "authors": [
+    "Vatuu",
+    "Draylarr"
+  ],
+  "license": "CC0-1.0",
+  "icon": "assets/lil-tater/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.vatuu.liltater.LilTater"
+    ],
+    "client": [
+      "dev.vatuu.liltater.LilTaterClient"
+    ]
+  },
+  "mixins": [
+    "lil-tater.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.7.8+build.189",
+    "fabric": "*",
+    "minecraft": "1.15.2"
+  }
+}

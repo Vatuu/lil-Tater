@@ -1,0 +1,12 @@
+{
+  "block.lil_tater.lil_tater": "'lil Tater",
+  "block.lil_tater.irritater": "Irritater",
+
+  "item.lil_tater.uwotter_egg": "Uwotter Spawn Egg",
+  "item.lil_tater.hmpf_egg": "Hmpf Spawn Egg",
+
+  "entity.lil_tater.uwotter": "Uwotter",
+  "entity.lil_tater.hmpf": "Hmpf",
+
+  "itemGroup.lil_tater.group": "'lil Tater"
+}

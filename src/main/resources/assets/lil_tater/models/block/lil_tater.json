@@ -1,0 +1,6 @@
+{
+  "parent": "lil_tater:tater/tater",
+  "textures": {
+    "tater": "lil_tater:tater/lil_tater"
+  }
+}

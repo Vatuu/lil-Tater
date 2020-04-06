@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "facing=north,wall=false": { "model": "lil_tater:block/irritater"},
+    "facing=north,wall=true": { "model": "lil_tater:block/irritater_wall"},
+    "facing=south,wall=false": { "model": "lil_tater:block/irritater", "y": 180 },
+    "facing=south,wall=true": { "model": "lil_tater:block/irritater_wall", "y": 180 },
+    "facing=west,wall=false": { "model": "lil_tater:block/irritater", "y": 270 },
+    "facing=west,wall=true": { "model": "lil_tater:block/irritater_wall", "y": 270 },
+    "facing=east,wall=false": { "model": "lil_tater:block/irritater", "y": 90 },
+    "facing=east,wall=true": { "model": "lil_tater:block/irritater_wall", "y": 90 }
+  }
+}
